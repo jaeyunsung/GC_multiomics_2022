@@ -1,0 +1,31 @@
+sample_ID	group	age	sex	HTN	DM	CVA	HP_infection	tumor_location	tumor_size	tumor_histology1	tumor_histology2	TNM_stage	PG_ratio	PG1	PG2	HP_antibody
+A_01	Healthy	24	Female	Absence	Absence	Absence	Negative						5.4	27.2	5	Negative
+A_02	Healthy	32	Male	Absence	Absence	Absence	Negative						4.6	133.9	28.8	Negative
+A_03	Healthy	26	Male	Absence	Absence	Absence	Negative						8.9	58.9	6.6	Negative
+A_04	Healthy	24	Male	Absence	Absence	Absence	Negative						5.3	45.5	8.6	Negative
+A_05	Healthy	29	Male	Absence	Absence	Absence	Negative						3.7	69.2	18.6	Negative
+A_06	Healthy	36	Male	Absence	Absence	Absence	Negative						5.5	62.6	11.4	Equivocal
+A_07	Healthy	25	Male	Absence	Absence	Absence	Negative						4.1	34.7	8.4	Negative
+A_08	Healthy	26	Male	Absence	Absence	Absence	Negative						3.5	40.1	11.5	Negative
+A_09	Healthy	26	Male	Absence	Absence	Absence	Negative						4.3	55.4	12.9	Negative
+A_10	Healthy	28	Male	Absence	Absence	Absence	Negative						5.4	50.1	9.2	Negative
+B_01	HP_eradication	27	Female	Absence	Absence	Absence	Negative						2.6	123.3	46.6	Positive
+B_02	HP_eradication	24	Female	Absence	Absence	Absence	Negative						4	54.1	13.4	Equivocal
+B_03	HP_eradication	38	Female	Absence	Absence	Absence	Negative									
+B_04	HP_eradication	27	Female	Absence	Absence	Absence	Negative						3.1	114.1	37.2	Equivocal
+B_05	HP_eradication	29	Female	Absence	Absence	Absence	Negative						1.9	87.4	45.5	Positive
+B_06	HP_eradication	32	Female	Absence	Absence	Absence	Negative						3.3	82.5	24.9	Positive
+C_01	HP_gastritis	59	Male	Presence	Presence	Absence	Positive						4.3	70.3	16.3	Negative
+C_02	HP_gastritis	27	Male	Absence	Absence	Absence	Positive						4.9	280.4	56.9	Positive
+C_03	HP_gastritis	32	Female	Absence	Absence	Absence	Positive						3.4	98	28.8	Positive
+C_04	HP_gastritis	25	Female	Absence	Absence	Absence	Positive						3.3	100	30.2	Positive
+C_05	HP_gastritis	31	Female	Absence	Absence	Absence	Positive						1.9	85.1	43.8	Positive
+C_06	HP_gastritis	27	Female	Absence	Absence	Absence	Positive						31.9	105.2	3.3	Positive
+C_07	HP_gastritis	27	Male	Absence	Absence	Absence	Positive						4.9	280.4	56.9	Positive
+C_08	HP_gastritis	51	Male	Presence	Absence	Absence	Positive						3	67.8	22.9	Positive
+C_09	HP_gastritis	63	Male	Absence	Absence	Absence	Positive						2.3	90.2	39.8	Positive
+C_10	HP_gastritis	75	Female	Presence	Presence	Presence	Negative						1.1	19.2	17.9	Negative
+C_11	HP_gastritis	74	Male	Absence	Absence	Absence	Negative						2.5	24.8	9.9	Negative
+D_01	Gastric_cancer	65	Male	Absence	Absence	Absence	Negative	Lower_third	10.5	AMD	Differentiated	III				
+D_02	Gastric_cancer	69	Female	Absence	Absence	Absence	Positive	Middle_third	3	AMD	Differentiated	II	2.5	274	108.9	Positive
+D_03	Gastric_cancer	63	Male	Absence	Absence	Absence	Negative	Lower_third	2	AMD	Differentiated	I	3.3	107.7	32.5	Positive
