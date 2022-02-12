@@ -1,5 +1,3 @@
-# 2022_multiomic_GC
-
 ## Introduction
 This repository is a part of the supplementary document of Park et. al., "Multi-omics Reveals Microbiome, Host Gene Expression, and Immune Landscape in Gastric Carcinogenesis" published in iScience 2022.
 
